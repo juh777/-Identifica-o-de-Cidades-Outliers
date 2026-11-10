@@ -1,0 +1,28 @@
+cidade,uf,regiao,populacao_2010,populacao_2022,variacao_absoluta,taxa_crescimento_pct,razao_sexo_2022,persona_prefeito
+Sao Paulo,SP,Sudeste,11253503,11451245,197742,1.76,,
+Rio de Janeiro,RJ,Sudeste,6320446,6211423,-109023,-1.72,,
+Brasilia,DF,Centro-Oeste,2570160,2817068,246908,9.61,,
+Fortaleza,CE,Nordeste,2452185,2428678,-23507,-0.96,,
+Salvador,BA,Nordeste,2675656,2418005,-257651,-9.63,83.8,Jorge
+Belo Horizonte,MG,Sudeste,2375151,2315560,-59591,-2.51,86.8,Elisa
+Manaus,AM,Norte,1802014,2063547,261533,14.51,,
+Curitiba,PR,Sul,1751907,1773733,21826,1.25,89.4,Carlos
+Recife,PE,Nordeste,1537704,1488920,-48784,-3.17,,
+Goiania,GO,Centro-Oeste,1302001,1437237,135236,10.39,,
+Porto Alegre,RS,Sul,1409351,1332570,-76781,-5.45,85.2,Eduardo
+Belem,PA,Norte,1393399,1303389,-90010,-6.46,,
+Sao Luis,MA,Nordeste,1014837,1037775,22938,2.26,,
+Maceio,AL,Nordeste,932748,957916,25168,2.7,,
+Campo Grande,MS,Centro-Oeste,786797,897938,111141,14.13,,
+Teresina,PI,Nordeste,814230,866300,52070,6.39,,
+Joao Pessoa,PB,Nordeste,723515,833932,110417,15.26,,
+Natal,RN,Nordeste,803739,751300,-52439,-6.52,,
+Cuiaba,MT,Centro-Oeste,551098,650912,99814,18.11,,
+Aracaju,SE,Nordeste,579149,602757,23608,4.08,,
+Florianopolis,SC,Sul,421240,537213,115973,27.53,91.9,Roberto
+Porto Velho,RO,Norte,428527,460413,31886,7.44,,
+Macapa,AP,Norte,398204,442933,44729,11.23,,
+Boa Vista,RR,Norte,284313,413486,129173,45.43,,
+Rio Branco,AC,Norte,336038,364756,28718,8.55,,
+Vitoria,ES,Sudeste,319738,322869,3131,0.98,,
+Palmas,TO,Norte,228332,302692,74360,32.57,,
